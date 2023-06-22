@@ -14,4 +14,8 @@
 
 1. Print the pattern.
 2. Write a Java program to find the numbers greater than the average of the numbers of a given array.
-3. write a java program that takes a number as input and prints its multiplication table.
+3. write a Java program that takes a number as input and prints its multiplication table.
+4. write a Java program to sum the values of an array.
+5. write a Java program to find a maximum and minimum number in an array.
+6. write a Java program to separate zeros on the left side and once on the right side of an array of zeros and ones in random order.
+7. write a Java method to find the smallest number among three numbers. 
