@@ -24,3 +24,12 @@
 1. Write a program for Default Access Modifier.
 2. Write a Java program for Fibonacci Series.
 3. write a Java program to find a factorial for the given number.
+
+**DAY-4**
+*TIME AND SPACE COMPLEXITY*
+1. Big O notation (O) represents the upper bound or the worst-case scenario of the algorithm's time or space complexity. It denotes the maximum growth rate of the algorithm as the input size increases.
+
+2. Omega notation (Ω) represents the lower bound or the best-case scenario of the algorithm's time or space complexity. It denotes the minimum growth rate of the algorithm as the input size increases.
+
+3. Theta notation (Θ) represents the tight bound or the average-case scenario of the algorithm's time or space complexity. It denotes both the upper and lower bounds, indicating that the algorithm's growth rate is bounded within these limits.
+
