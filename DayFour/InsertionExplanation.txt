@@ -1,0 +1,5 @@
+Best Case (Omega): The best case occurs when the input array is already sorted. In this scenario, Insertion Sort performs fewer comparisons and shifts. The best-case time complexity of Insertion Sort is Ω(n), where n is the number of elements in the array.
+
+Average Case (Theta): The average case assumes a random distribution of input elements. On average, Insertion Sort performs approximately n/2 comparisons and shifts. The average-case time complexity of Insertion Sort is Θ(n^2), where n is the number of elements in the array.
+
+Worst Case (Big O): The worst case occurs when the input array is in reverse order, requiring the maximum number of comparisons and shifts. The worst-case time complexity of Insertion Sort is O(n^2), where n is the number of elements in the array.
