@@ -33,4 +33,5 @@
 2. Omega notation (Ω) represents the lower bound or the best-case scenario of the algorithm's time or space complexity. It denotes the minimum growth rate of the algorithm as the input size increases.
 
 3. Theta notation (Θ) represents the tight bound or the average-case scenario of the algorithm's time or space complexity. It denotes both the upper and lower bounds, indicating that the algorithm's growth rate is bounded within these limits.
+4. 
 
