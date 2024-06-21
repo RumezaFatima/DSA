@@ -14,5 +14,6 @@ public class ProductFunction {
         int a = sc.nextInt();
         int b = sc.nextInt();
         calculateProduct(a, b);
+        sc.close();
     }
 }
