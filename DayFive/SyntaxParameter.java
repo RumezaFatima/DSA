@@ -14,5 +14,6 @@ public class SyntaxParameter {
         int a = sc.nextInt();
         int b = sc.nextInt();
         calculatesum(a, b);
+        sc.close();
     }
 }

@@ -1,6 +1,6 @@
 package DayFive;
 
-import java.math.*;
+import java.lang.Math;
 
 public class PrimeOptimised {
     public static boolean isPrime(int n) {

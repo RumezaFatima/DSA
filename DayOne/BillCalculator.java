@@ -16,6 +16,7 @@ public class BillCalculator {
 
         double finalbill = (bill * 0.18f + bill);
         System.out.println("Total cost with GST: " + finalbill);
+        sc.close();
     }
 
 }

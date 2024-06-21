@@ -8,5 +8,6 @@ public class AreaofSquare {
         int a = sc.nextInt();
         int area = a * a;
         System.out.println(area);
+        sc.close();
     }
 }

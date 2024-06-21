@@ -10,5 +10,6 @@ public class Avg {
         int c = sc.nextInt();
         double avg = (a + b + c) / 3;
         System.out.println(avg);
+        sc.close();
     }
 }

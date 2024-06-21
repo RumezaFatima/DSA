@@ -18,6 +18,6 @@ public class OnetoTenWhileLoop {
             System.out.println(number);
             number++;
         }
-
+        sc.close();
     }
 }
