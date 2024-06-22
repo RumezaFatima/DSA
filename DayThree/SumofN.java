@@ -9,6 +9,7 @@ public class SumofN {
         int n = sc.nextInt();
         int sum = 0;
         int i = 1;
+        sc.close();
         while (i <= n) {
             sum += i;
             System.out.println(sum);
@@ -18,6 +19,6 @@ public class SumofN {
         for (j = 1; j <= 10; j++) {
             System.out.println(j);
         }
-        sc.close();
+
     }
 }
