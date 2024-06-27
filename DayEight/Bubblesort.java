@@ -31,7 +31,6 @@ public class Bubblesort {
                 System.out.print(num + " ");
             }
             System.out.println();
-
         }
     }
 }
