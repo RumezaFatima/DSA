@@ -30,7 +30,6 @@ public class Selectionsort {
         System.out.println();
     }
 
-    // Main method to test the selection sort
     public static void main(String[] args) {
         int[] arr = { 64, 25, 12, 22, 11 };
         System.out.println("Array before sorting:");
